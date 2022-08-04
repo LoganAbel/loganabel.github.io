@@ -1,6 +1,4 @@
-# loganabel.github.io
-
-[Main Page](https://loganabel.github.io/main.html)
+[# Main Page](https://loganabel.github.io/main.html)
 
 [Fluid Simulator](https://loganabel.github.io/Fluid-Simulator-WebGL/main.html) |
 [Reaction Diffusion](https://loganabel.github.io/Reaction-Diffusion-WebGL/main.html) |
