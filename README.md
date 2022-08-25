@@ -4,3 +4,5 @@
 [Reaction Diffusion](https://loganabel.github.io/Reaction-Diffusion-WebGL/main.html) |
 [Verlet Integration](https://loganabel.github.io/Verlet-Integration/main.html) |
 [Mandelbrott](https://loganabel.github.io/mandelbrott/main.html)
+
+loganluckabel@gmail.com
