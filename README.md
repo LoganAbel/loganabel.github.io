@@ -3,6 +3,7 @@
 [Fluid Simulator](https://loganabel.github.io/Fluid-Simulator-WebGL/main.html) |
 [Reaction Diffusion](https://loganabel.github.io/Reaction-Diffusion-WebGL/main.html) |
 [Verlet Integration](https://loganabel.github.io/Verlet-Integration/main.html) |
-[Mandelbrott](https://loganabel.github.io/mandelbrott/main.html)
+[Mandelbrott](https://loganabel.github.io/mandelbrott/main.html) |
+[Wave Function Collaps](https://loganabel.github.io/Wave-Function-Collapse/main.html)
 
 loganluckabel@gmail.com
